@@ -28,4 +28,3 @@ pip install -r requirements.txt
 - `src/techniques/self_consistency.py`
 
 Each technique should take a question string and return one final answer string.
-
